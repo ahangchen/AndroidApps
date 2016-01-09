@@ -5,7 +5,7 @@
 
 > [![Ink-log](http://7xpxy3.com1.z0.glb.clouddn.com/ico.png)](http://pan.baidu.com/s/1pJYBPyF)
 
-> Android图片素描应用，点击上图前往下载↗
+> Android图片素描应用，点击上图前往下载
 
 意见可以通过邮件发给我（1418659400@qq.com），
 
